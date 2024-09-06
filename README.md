@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://patientz.vercel.app/">Patientz</a></h1>
+  <h1 style="font-size: 48px;"><a href="https://patientz.vercel.app/">Patientz</a></h1>
   <h3>A HealthCare Management System</h3>
 </div>
 
