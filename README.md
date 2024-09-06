@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><a href="https://patientz.vercel.app/">**Patientz**</a></h1>
-  <h3>*A HealthCare Management System*</h3>
+  <h1><a href="https://patientz.vercel.app/">Patientz</a></h1>
+  <h3>A HealthCare Management System</h3>
 </div>
 
 ## [👉 Try it Now](https://patientz.vercel.app/)
