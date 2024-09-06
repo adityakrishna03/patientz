@@ -1,6 +1,6 @@
-# [**Patientz**](https://patientz.vercel.app/)
+<h1 align="center" style="font-size: 3em;">[**Patientz**](https://patientz.vercel.app/)</h1>
 
-### *A HealthCare Management System*
+<h2 align="center" style="font-size: 2em;">*A HealthCare Management System*</h2>
 
 ## [👉 Try it Now](https://patientz.vercel.app/)
 
